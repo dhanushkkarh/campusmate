@@ -1,0 +1,36 @@
+Privacy Policy for CampusMate
+
+Last updated: 8/8/2023
+
+Welcome to CampusMate ("us", "we", or "our"). We are committed to protecting your privacy and ensuring a secure user experience. This Privacy Policy outlines how we collect, use, and safeguard information when you use our mobile application CampusMate (the "App").
+
+By using the App, you agree to the terms and practices described in this Privacy Policy.
+
+Information We Collect
+
+The App does not collect any personal information from its users. We do not require or store any personal data, including names, email addresses, phone numbers, or payment information.
+
+Usage Data
+
+The App may collect anonymous usage data, such as app crash reports, analytics, and general usage statistics. This information is used solely to improve the performance, reliability, and user experience of the App. Usage data is collected using third-party analytics services and does not include any personally identifiable information.
+
+Login Information
+
+The App includes a login page, but it does not offer signups or require any login credentials. The login feature is provided for user convenience and personalization but does not involve the collection of personal data.
+
+Third-Party Services
+
+The App may use third-party services for analytics and crash reporting. These services may collect anonymous usage information to help us diagnose and improve app performance. These third-party services have their own privacy policies, which you can review on their respective websites.
+
+Data Security
+
+We take data security seriously. Although the App does not collect personal data, we implement reasonable measures to protect the information we collect, including encryption and secure protocols.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will notify users of any material changes by updating the "Last updated" date at the top of this Privacy Policy.
+
+Contact Us
+
+If you have any questions about this Privacy Policy or your interactions with the App, please contact us at [your contact email address].
+
